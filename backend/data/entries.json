@@ -1,0 +1,57 @@
+[
+    {
+       "user": "Maikis",
+       "amount": 0.25,
+       "id": 1
+    },
+    {
+       "user": "Norte",
+       "amount": 0.25,
+       "id": 2
+    },
+    {
+       "user": "Star",
+       "amount": 0.699,
+       "id": 3
+    },
+    {
+       "user": "Alice",
+       "amount": 0.06,
+       "id": 4
+    },
+    {
+       "user": "Norte",
+       "amount": 0.29,
+       "id": 5
+    },
+    {
+       "user": "Maikis",
+       "amount": 0.118,
+       "id": 6
+    },
+    {
+       "user": "Maikis",
+       "amount": 0.052,
+       "id": 7
+    },
+    {
+       "user": "Norte",
+       "amount": 0.052,
+       "id": 8
+    },
+    {
+       "user": "CIC",
+       "amount": 0.00256156,
+       "id": 9
+    },
+    {
+       "user": "Doc",
+       "amount": 0.042,
+       "id": 10
+    },
+    {
+       "user": "CIC",
+       "amount": 0.00054,
+       "id": 11
+    }
+ ]
